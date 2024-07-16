@@ -1,3 +1,3 @@
 # webgl-flappy-bird
 
-Assets only
+[Play here](https://dondejvo.github.io/webgl-flappy-bird)
